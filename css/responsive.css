@@ -1,0 +1,648 @@
+/*Extra large Device*/
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .shape04 {
+        right: -5%;
+        /*        left: 31%;*/
+    }
+
+    .shape05 {
+        margin-left: -84px;
+    }
+
+    /*    screenshot*/
+    .screen-img img {
+        width: 100%;
+    }
+
+    /*    brand*/
+    .brand-img {
+        margin-left: 0;
+    }
+}
+
+
+
+
+/*LG Device*/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    /*main-menu*/
+    .main-menu ul li {
+        margin: 0 12px;
+    }
+
+    /*slider*/
+    .shape02 {
+        top: 785px;
+    }
+
+    .slider-content {
+        padding-left: 115px;
+    }
+
+    .slider-btn {
+        padding-left: 115px;
+    }
+
+    /*    working*/
+    .working-img img {
+        width: 100%;
+    }
+
+    .working-content h4 {
+        padding-top: 100px;
+    }
+
+    /*    screenshot*/
+    .screen-img img {
+        width: 100%;
+    }
+
+    /*    faq*/
+    .faq-box {
+        padding-top: 80px;
+    }
+
+    /*    brand*/
+    .brand-img {
+        margin-left: 0;
+    }
+
+    /*    news*/
+    .news-img img {
+        width: 100%;
+    }
+
+    /*    sbuscribe*/
+    .email-text input {
+        width: 525px;
+    }
+
+    .email-area {
+        margin-left: 120px;
+    }
+
+    .email-btn {
+        right: 51px;
+    }
+
+    /*    app*/
+    .app-area .section-title h2 {
+        text-align: center;
+    }
+
+    .app-inner {
+        margin-left: 95px;
+    }
+
+    .app {
+        margin-left: 160px;
+
+    }
+
+    .app.google {
+        margin-left: -35px;
+    }
+
+    .copyright-content p {
+        margin-left: 50px;
+    }
+}
+
+
+/*MD devcie*/
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /*    mobile-menu*/
+    .mean-container a.meanmenu-reveal {
+        top: -52px;
+        border: 1px solid #fff;
+
+    }
+
+    .mean-container .mean-bar {
+        background: none;
+    }
+
+    .mean-container .mean-nav ul li a {
+        border-top: 1px solid transparent;
+        color: #000;
+    }
+
+    .mean-container .mean-nav {
+        width: 50%;
+        background: #fff;
+        margin-left: 50%;
+        margin-top: 0;
+    }
+
+    .mean-container .mean-nav ul li a:hover {
+        background: #4747f8;
+        color: #fff;
+    }
+
+    /*    slider*/
+    .slider-area {
+        background-position: bottom;
+        min-height: 1250px;
+        background-size: 170% 100%;
+    }
+
+    .slider-content h2 {
+        font-size: 58px;
+    }
+
+    .slider-content p {
+        margin-top: 20px;
+    }
+
+    .shape02 {
+        top: 756px;
+        left: 565px;
+    }
+
+    /*    counting*/
+    .counting-area {
+        margin-top: -160px;
+    }
+
+    /*    feature-area*/
+    .feature-area .section-title p {
+        margin-top: 25px;
+    }
+
+    .feature-content p {
+        padding: 0 10px;
+
+    }
+
+    /*    video*/
+    .video-icon {
+        margin-left: 175px;
+        margin-top: 30px;
+    }
+
+    /*    working*/
+    .working-content h4 {
+        padding-top: 80px;
+    }
+
+    .working-btn {
+        padding-bottom: 50px;
+    }
+
+    /*testimonial*/
+    .single-testimonial p {
+        font-size: 24px;
+        padding: 0px 0px;
+    }
+
+    /*screenshot*/
+    .screen-area {
+        padding-top: 140px;
+        padding-bottom: 130px;
+    }
+
+    .screen-img img {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    /*    brand*/
+    .brand-img {
+        margin-left: 20px;
+    }
+
+    /*    news*/
+    .news-content {
+        padding-bottom: 50px;
+    }
+
+    /*    subscribe*/
+    .subscribe-content {
+        padding-bottom: 70px;
+    }
+
+    .subscribe-content h4 {
+        text-align: center;
+        margin-left: 0;
+        margin-bottom: 25px;
+    }
+
+    .email-text input {
+        width: 523px;
+    }
+
+    /*    app*/
+    .app-area .section-title h2 {
+        text-align: center;
+    }
+
+    .app-inner {
+        margin-left: 90px;
+    }
+
+    .app.google {
+        margin-left: -25px;
+    }
+
+    /*    copyright-conten*/
+    .copyright-content p {
+        text-align: center;
+    }
+}
+
+
+/*SM Device*/
+@media (min-width: 576px) and (max-width:767px) {
+
+    /*    mobile-menu*/
+    .mean-container a.meanmenu-reveal {
+        top: -52px;
+        border: 1px solid #fff;
+
+    }
+
+    .mean-container .mean-bar {
+        background: none;
+    }
+
+    .mean-container .mean-nav ul li a {
+        border-top: 1px solid transparent;
+        color: #000;
+    }
+
+    .mean-container .mean-nav {
+        width: 50%;
+        background: #fff;
+        margin-left: 50%;
+        margin-top: 0;
+    }
+
+    .mean-container .mean-nav ul li a:hover {
+        background: #4747f8;
+        color: #fff;
+    }
+
+    /*    slider*/
+    .shape-wrapper {
+        display: none;
+    }
+
+    .slider-content h2 {
+        padding-top: 250px;
+    }
+
+    .single-count::after {
+        top: 20px;
+        right: -25px;
+    }
+
+    /*feature*/
+    .feature-shape {
+        display: none;
+    }
+
+    /*video*/
+    .video-icon {
+        text-align: center;
+    }
+
+    .video-icon i {
+        margin-top: 10px;
+        margin-left: 0;
+    }
+
+    /*work*/
+    .working-img img {
+        width: 100%;
+    }
+
+    .working-content h4 {
+        padding-top: 70px;
+        margin-bottom: 23px;
+    }
+
+    .working-img.second img {
+        margin-top: 70px;
+    }
+
+    /*    testimonial*/
+    .single-testimonial p {
+        font-size: 26px;
+        padding: 0;
+    }
+
+    /*screen*/
+    .screen-img img {
+        width: 100%;
+        margin-top: 60px;
+    }
+
+    /*faq*/
+    .card a::after {
+        margin-right: -20px;
+    }
+
+    /*brand*/
+    .brand-img {
+        margin-left: 0;
+    }
+
+    /*news*/
+    .news-area {
+        padding-bottom: 100px;
+    }
+
+    .single-news {
+        text-align: center;
+    }
+
+    .news-content {
+        padding: 0px 120px;
+        margin-bottom: 50px;
+    }
+
+    /*    subscribe*/
+    .subscribe-content {
+        padding-bottom: 75px;
+    }
+
+    .subscribe-content h4 {
+        font-size: 32px;
+        text-align: center;
+        margin-left: 0;
+        margin-bottom: 25px;
+    }
+
+    .email-text input {
+        height: 70px;
+        width: 400px;
+        padding-left: 20px;
+    }
+
+    .email-btn .btn {
+        padding: 17px 25px;
+    }
+
+    .email-btn {
+        right: 5px;
+    }
+
+    /*app*/
+    .app-area .section-title h2 {
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .app {
+        margin-left: 75px;
+    }
+
+    .app.google {
+        margin-left: 0px;
+    }
+
+    .app-name span {
+        font-size: 20px;
+    }
+
+    /*copyright*/
+    .copyright-content {
+        padding: 10px 0px;
+        text-align: center;
+    }
+
+}
+
+@media (max-width: 575px) {
+
+    /*    mobile-menu*/
+    .mean-container a.meanmenu-reveal {
+        top: -52px;
+        border: 1px solid #fff;
+
+    }
+
+    .mean-container .mean-bar {
+        background: none;
+    }
+
+    .mean-container .mean-nav ul li a {
+        border-top: 1px solid transparent;
+        color: #000;
+    }
+
+    .mean-container .mean-nav {
+        width: 50%;
+        background: #fff;
+        margin-left: 50%;
+        margin-top: 0;
+    }
+
+    .mean-container .mean-nav ul li a:hover {
+        background: #4747f8;
+        color: #fff;
+    }
+
+    /*slider*/
+    .shape-wrapper {
+        display: none;
+    }
+
+    .slider-content h2 {
+        padding-top: 200px;
+        font-size: 45px;
+    }
+
+    .slider-content p {
+        font-size: 20px;
+    }
+
+    /*count*/
+    .single-count::after {
+        display: none;
+    }
+
+    /*    feature*/
+    .feature-shape {
+        display: none;
+    }
+
+    /*video*/
+    .video-icon {
+        text-align: center;
+    }
+
+    .video-icon i {
+        margin-left: 0;
+    }
+
+    /*working*/
+    .working-img img {
+        width: 100%;
+    }
+
+    .working-content h4 {
+        padding-top: 60px;
+    }
+
+    .working-img.second img {
+        margin-top: 70px;
+    }
+
+    /*testimonial*/
+    .testimonial-img-active {
+        display: none;
+    }
+
+    .testimonial-area .section-title h3 {
+        font-size: 40px;
+    }
+
+    .single-testimonial p {
+        font-size: 18px;
+    }
+
+    /*screen*/
+    .screen-area {
+        padding-bottom: 140px;
+    }
+
+    .screen-area .section-title h3 {
+        font-size: 40px;
+    }
+
+    .screen-img img {
+        width: 100%;
+    }
+
+    .screen-area .section-title p {
+        font-size: 20px;
+    }
+
+    /*    faq*/
+    .faq-area .section-title h3 {
+        font-size: 40px;
+    }
+
+    .faq-area .section-title p {
+        font-size: 20px;
+    }
+
+    .card a::after {
+        right: 5px;
+
+    }
+
+    /*    brand*/
+    .brand-img .owl-carousel .owl-item img {
+        margin: auto;
+    }
+
+    .brand-img {
+        margin-left: 0;
+    }
+
+    /*    news*/
+    .news-area {
+        padding-bottom: 100px;
+    }
+
+    .news-img img {
+        width: 100%;
+    }
+
+    .news-area .section-title h3 {
+        font-size: 40px;
+    }
+
+    .news-area .section-title p {
+        font-size: 20px;
+    }
+
+    .single-news {
+        text-align: center;
+    }
+
+    .news-content {
+        padding: 0px 20px;
+    }
+
+    .single-news {
+        margin-bottom: 40px;
+    }
+
+    .inner-news {
+        padding: 30px 5px;
+    }
+
+    .date-name {
+        display: none;
+    }
+
+    /*    subscribe*/
+    .subscribe-content {
+        padding-bottom: 130px;
+    }
+
+    .email-area {
+        margin: auto;
+        width: 50%;
+    }
+
+    .subscribe-content h4 {
+        font-size: 30px;
+        color: #fff;
+        font-weight: 600;
+        line-height: 1.35;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .email-text input {
+        height: 70px;
+        width: 245px;
+        padding-left: 20px;
+    }
+
+    .email-btn {
+        top: 90px;
+        right: 40px;
+    }
+
+    .email-btn .btn {
+        padding: 15px 15px;
+    }
+
+    /*    app*/
+    .app-area .section-title h2 {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .app-inner {
+        margin: auto;
+        width: 50%;
+    }
+
+    .app {
+        margin-left: 0px;
+    }
+
+    .app.google {
+        margin-left: 0px;
+        margin-top: 25px;
+    }
+
+    /*    copyright*/
+    .copyright-content {
+        padding: 30px 35px;
+        text-align: center;
+    }
+
+    .copyright-content span {
+        font-size: 17px;
+    }
+
+}
